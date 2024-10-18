@@ -1,0 +1,6 @@
+[book]
+authors = ["haruki-nikaidou"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "自顶而下日语语法速成"

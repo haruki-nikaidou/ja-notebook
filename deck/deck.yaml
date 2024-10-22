@@ -1,3 +1,4 @@
 name: 日语速通
 card_files:
   - grammar.yml
+  - words.yaml
